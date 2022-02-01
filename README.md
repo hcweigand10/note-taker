@@ -4,7 +4,7 @@
 
 ![badgeImg](https://shields.io/badge/license-MIT-green)
 
-This project... 
+This project 
 
 
 ## Table of Contents 
