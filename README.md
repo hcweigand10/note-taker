@@ -4,14 +4,16 @@
 
 ![badgeImg](https://shields.io/badge/license-MIT-green)
 
-This project 
+This project allows a user to write and save notes that can be viewed later even if the browser window is closed. I used express to enable fetch requests and manipulation of locally stored data in the db.json file. This ensures the the notes are saved in a manner that is not reliant on a particular browser (like local storage).
+
+I felt that despite this assigment taking relatively few hours to complete, the mapping of the different files and syntax required to properly import different files confused me more than any project to date. Hopefully that's just a symptom of it being the first week of back end development.
 
 
 ## Table of Contents 
 
 [Installation](#Installation)
     
-[Usage](#usage)
+[Usage](#Usage)
     
 [License](#License)
     
@@ -24,12 +26,13 @@ This project
     
 ## Installation
     
-Install
+No installation required
     
     
 ## Usage
     
-Usage
+To use, visit https://note-taker-hcw.herokuapp.com/
+![screenshot](Assets/indexScreenshot.png)
     
     
 ## License 
@@ -44,8 +47,7 @@ To contribute, contact me!
     
 ## Tests
     
-Testing
-    
+No testing required    
     
 ## Questions
     
